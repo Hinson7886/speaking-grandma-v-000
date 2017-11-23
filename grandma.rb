@@ -20,5 +20,3 @@
      return "I LOVE YOU TOO PUMPKIN!"
 end
  end
-
-speak_to_grandma("I LOVE YOU GRANDMA!")
